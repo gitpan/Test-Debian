@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Test-Debian
-version:            0.01
+version:            0.02
 abstract:           some tests for debian system
 author:
     - Dmitry E. Oboukhov <unera@debian.org>
